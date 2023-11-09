@@ -6,6 +6,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 import genericlibraries.WebDriverUtility;
+// this test is success
 
 public class AddNewCoursePage {
 	//Declaration
